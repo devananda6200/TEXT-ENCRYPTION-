@@ -1,4 +1,8 @@
 **Text encryption using Caeser Cipher**
+
+
+
+
 **Caesar Cipher**: Simple Python implementation for basic text encryption using the classical Caesar cipher method. Shifts each letter by a fixed amount for obfuscation. Limited security; designed for educational purposes.
 A simple code in python to decrypt and encrypt.
 
